@@ -1,2 +1,2 @@
 before_build:
- - nuget restore LearnWithMentorDAL\LearnWithMentorDAL.csproj
+ - nuget restore .\LearnWithMentorDAL\LearnWithMentorDAL.csproj
