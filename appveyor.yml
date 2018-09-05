@@ -1,2 +1,5 @@
 before_build:
  - nuget restore learnwithmentor-server-master\LearnWithMentor.sln
+ 
+# Operating system (build VM template)
+os: Visual Studio 2017
